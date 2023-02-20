@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../algorithm"
+		},
+		{
+			"name": "Nagaboka",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fe-sprint-tree-ui"
+	}
+}
